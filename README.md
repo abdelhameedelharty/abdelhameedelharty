@@ -6,7 +6,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.21608%2Ferjsh.2023.195658.1148-blue)](https://doi.org/10.21608/erjsh.2023.195658.1148)
 [![Academia](https://img.shields.io/badge/Academia.edu-M.Sc.%20thesis-41454A)](https://www.academia.edu/114589968/Thesis_A_Elharty_)
 ![Field](https://img.shields.io/badge/field-geodesy%20%7C%20GNSS%20%7C%20gravity%20field-orange)
-[![Email](https://img.shields.io/badge/email-abdelhamid.muhammed%40feng.bu.edu.eg-0072C6?logo=maildotru&logoColor=white)](mailto:abdelhamid.muhammed@feng.bu.edu.eg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2)](https://www.linkedin.com/in/abdelhameed-elharty-msc-306881255/)
 
 ### Now
