@@ -38,8 +38,8 @@
 
 | Period | Role |
 |---|---|
+| 11/2024 – 08/2025 | **Technical Consultant** (part-time), Consulting Office, Benha University |
 | 04/2024 – present | **Assistant Lecturer**, Geomatics Department, Faculty of Engineering at Shoubra, Benha University |
-| 02/2022 – present | **Consulting Surveying Engineer**, University Consulting Center, El Obour, Cairo: surveying for interlock-paving projects in Banha, El-Khousous, Shubra, Qalyub and Al-Khanka |
 | 01/2019 – 03/2024 | **Teaching Assistant**, Geomatics Department, Faculty of Engineering at Shoubra, Benha University |
 
 ### Education
