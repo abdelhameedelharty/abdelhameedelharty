@@ -1,6 +1,6 @@
 ## Hi, I'm Abdelhameed Elharty
 
-**Geomatics engineer and geodesist.** PhD candidate at **Wuhan University** (since 09/2026), and Assistant Lecturer in the Geomatics Department, Faculty of Engineering at Shoubra, **Benha University**, Egypt.
+**Geomatics engineer and geodesist.** PhD candidate at the **State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University** (since 09/2026), on a full **China Scholarship Council (CSC)** scholarship. I am also an Assistant Lecturer in the Geomatics Department, Faculty of Engineering at Shoubra, **Benha University**, Egypt.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1707--3465-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1707-3465)
 [![DOI](https://img.shields.io/badge/DOI-10.21608%2Ferjsh.2023.195658.1148-blue)](https://doi.org/10.21608/erjsh.2023.195658.1148)
@@ -46,7 +46,7 @@
 
 | Period | Degree |
 |---|---|
-| 09/2026 – | **Ph.D.**, Wuhan University, China: seamless indoor–outdoor positioning |
+| 09/2026 – | **Ph.D. in Geodesy and Surveying Engineering**, LIESMARS, Wuhan University, China: seamless indoor–outdoor positioning (full CSC scholarship) |
 | 09/2019 – 01/2024 | **M.Sc. in Geomatics Engineering (Geodesy)**, Faculty of Engineering at Shoubra, Benha University. Thesis: *Filtering, Improving, and Predicting Gravity Field in Egypt Using Recent Global Gravity Models and Terrestrial Gravity Observations* |
 | 02/2023 – 07/2023 | **Erasmus+ mobility for studies**, Faculty of Geodesy, University of Zagreb, Croatia: physical geodesy, thematic cartography, diploma thesis (42 ECTS) |
 | 09/2012 – 07/2017 | **B.Sc. in Geomatics Engineering**, Faculty of Engineering at Shoubra, Benha University |
@@ -60,6 +60,7 @@
 
 ### Training and awards
 
+- **China Scholarship Council (CSC) full doctoral scholarship** (tuition, accommodation, living allowance, medical insurance), Wuhan University, 09/2026 – 07/2030
 - **Microsoft Power BI Engineer**: Digital Egypt Pioneers Initiative (DEPI) internship, 06/2025 – 12/2025
 - **Erasmus+ Mobility Programme for Studies** (award), University of Zagreb, 12/2022
 - **Annual Conference of Postgraduate Studies for Applied Sciences**: "Innovative Research for a Sustainable Future", 10/2023
